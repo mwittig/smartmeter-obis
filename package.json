@@ -16,7 +16,7 @@
   "dependencies": {
     "open-sml": "Apollon77/OpenSML",
     "serialport": "^6.0.4",
-    "request": "^2.79.0"
+    "request": "^2.85.0"
   },
   "devDependencies": {
     "virtual-serialport": "Apollon77/virtual-serialport",
